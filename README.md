@@ -9,6 +9,7 @@
 Este projeto, denominado **Bike Generator Monitor (FitEnergy)**, faz parte da Global Solution de Edge Computing & Computer Systems do 1º semestre. O objetivo é desenvolver um sistema que meça e exiba a quantidade de energia gerada por uma bicicleta conectada a um dínamo, incentivando a conscientização sobre energia renovável enquanto as pessoas se exercitam. O sistema visa criar um monitor para verificar a corrente gerada pela bicicleta, utilizando um potenciômetro para simular o comportamento do dínamo, e um LED indicativo que acende ao atingir uma corrente específica. O display LCD mostra os valores em tempo real.
 
 Link do projeto no Wokwi: [Clique aqui para acessar](https://wokwi.com/projects/414487950438686721)
+Link do Vídeo Explivativo: [Clique aqui para acessar](https://youtu.be/2ES6wC8susE)
 
 ## Descrição do Projeto
 O projeto **Bike Generator Monitor (FitEnergy)** consiste em um Arduino Uno, um display LCD 1602 com comunicação I2C, um potenciômetro que simula a corrente gerada pelo dínamo, e um LED que indica quando uma meta de corrente é atingida.
@@ -63,6 +64,7 @@ Qualquer dúvida sobre o funcionamento ou implementação do projeto pode ser es
 ---
 
 Link do Projeto Wokwi: [Clique aqui](https://wokwi.com/projects/414487950438686721)
+Link do Vídeo Explivativo: [Clique aqui](https://youtu.be/2ES6wC8susE)
 
 **Integrantes:** LÍVIA PEREIRA DIAS CORREA RM 559414, 
 ALEXANDRE COLVET DELFINO RM 560059, 
